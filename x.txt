@@ -1,1 +1,3 @@
-1X
+ssh-keygen -t rsa -b 2048 -C 274659281@qq.com
+ssh-keygen -t rsa -b 4096 -C "274659281@qq.com"
+/c/Users/chci/.ssh/id_rsa.pub
